@@ -1,5 +1,9 @@
+incluyo front.txt
 1
 2
 3 tercera linea
 4
+meta
+	datafront
+/meta
 5
