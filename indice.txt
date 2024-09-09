@@ -1,7 +1,11 @@
+incluyo front.txt
 incluyo backUNO.txt;
 incluyto backDOS.txt;
 1
 2
 3 tercera linea
 4
+meta
+	datafront
+/meta
 5
